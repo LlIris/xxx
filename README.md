@@ -4,4 +4,3 @@
 
 * primo
 * secondo
-xxx
